@@ -159,7 +159,7 @@ figure {
 .session__selection__left__text:hover ,
 .session__selection__center__text:hover,
 .session__selection__right__text:hover {
-    color:  #018ABE;;
+    color:  rgb(10, 245, 245);
 }
 
 
@@ -170,7 +170,7 @@ figure {
 
 .session__selection__standart {
     position: relative;
-    background: #018ABE;
+    background: rgb(10, 245, 245);;
     border-radius: 12px 12px 10px 10px;
 }
 
